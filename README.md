@@ -1,7 +1,7 @@
 # Blogger Web site
 This project was created for college course on web devlopment <br>
 bulit using **php** and **jquery** <br>
-##reference
+## reference
 the [creative Theme](https://startbootstrap.com/template-overviews/creative/) used for the index page with some changes
 
 ### license
