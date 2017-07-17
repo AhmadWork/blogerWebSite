@@ -5,4 +5,4 @@ bulit using **php** and **jquery** <br>
 the [creative Theme](https://startbootstrap.com/template-overviews/creative/) used for the index page with some changes
 
 ### license
-Fell free to download and use this project as long as you give credit!
+Feel free to download and use this project as long as you give credit!
